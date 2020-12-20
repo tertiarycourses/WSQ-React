@@ -1,5 +1,5 @@
 # NICF - UI Development with React for Beginners
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [NICF - UI Development with React for Beginners](https://www.tertiarycourses.com.sg/wsq-react-ui-course.html) course. 
 
